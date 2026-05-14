@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Touch Grass</string>
+    <string name="accessibility_description">Service to help you touch grass by locking your phone.</string>
+</resources>
